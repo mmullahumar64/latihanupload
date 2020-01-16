@@ -1,0 +1,216 @@
+<?xml version="1.0" ?><svg height="297.000000mm" version="1.0" viewBox="0 0 794 1123" width="210.000000mm" xmlns="http://www.w3.org/2000/svg">
+  <g font-family="Helvetica" font-size="12pt" stroke-linecap="round">
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="33.15" x2="33.15" y1="107.00" y2="133.44"/>
+      <line x1="39.15" x2="39.15" y1="110.30" y2="130.13"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="33.15" x2="56.07" y1="107.00" y2="93.75"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="79.00" x2="56.07" y1="133.44" y2="146.69"/>
+      <line x1="73.13" x2="55.94" y1="129.90" y2="139.83"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="79.00" x2="79.00" y1="107.00" y2="133.44"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="56.07" x2="79.00" y1="93.75" y2="107.00"/>
+      <line x1="55.94" x2="73.13" y1="100.61" y2="110.54"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="33.15" x2="56.07" y1="133.44" y2="146.69"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="85" x="158.00" y="95.75">AROMATIC</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="37.00" y="264.75">R</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="67.00" x2="93.47" y1="264.00" y2="263.54"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="24" x="106.00" y="266.75">OH</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="77" x="32.00" y="304.75">ALCOHOL</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="30.00" y="392.75">R</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="48.00" x2="74.48" y1="391.00" y2="391.00"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="102.00" y="394.75">O</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="127.00" x2="153.48" y1="391.00" y2="391.00"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="170.00" y="391.75">R</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="70.06" x2="93.00" y1="526.70" y2="513.48"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="47.13" x2="47.13" y1="487.00" y2="513.48"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="93.00" x2="70.06" y1="487.00" y2="473.77"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="47.13" x2="70.06" y1="513.48" y2="526.70"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="93.00" x2="93.00" y1="513.48" y2="487.00"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="70.06" x2="47.13" y1="473.77" y2="487.00"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="60" x="37.00" y="568.75">CYCLIC</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="40.00" y="626.75">R</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="71.00" x2="97.48" y1="620.00" y2="620.00"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="23" x="197.00" y="454.75">SH</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="23" x="108.00" y="622.75">SH</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="42.75" x2="34.57" y1="753.76" y2="728.57"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="56.00" x2="77.43" y1="713.00" y2="728.57"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="69.25" x2="42.75" y1="753.76" y2="753.76"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="77.43" x2="69.25" y1="728.57" y2="753.76"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="34.57" x2="56.00" y1="728.57" y2="713.00"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="78" x="26.00" y="794.75">PENTANE</text>
+  </g>
+  <cdml version="0.15" xmlns="http://www.freesoftware.fsf.org/bkchem/cdml">
+    <info>
+      <author_program version="0.13.0">BKchem</author_program>
+    </info>
+    <paper crop_margin="10" crop_svg="0" orientation="portrait" replace_minus="0" type="A4" use_real_minus="0"/>
+    <viewport viewport="0.000000 0.000000 640.000000 480.000000"/>
+    <standard area_color="" font_family="helvetica" font_size="12" line_color="#000" line_width="1px" paper_crop_margin="10" paper_crop_svg="0" paper_orientation="portrait" paper_type="A4">
+      <bond double-ratio="0.75" length="0.7cm" wedge-width="5px" width="6px"/>
+      <arrow length="1.6cm"/>
+      <atom show_hydrogens="0"/>
+    </standard>
+    <molecule id="molecule82154" name="">
+      <atom id="atom99459" name="C" valency="4">
+        <point x="0.876cm" y="2.829cm"/>
+      </atom>
+      <atom id="atom81361" name="C" valency="4">
+        <point x="1.482cm" y="2.479cm"/>
+      </atom>
+      <atom id="atom37712" name="C" valency="4">
+        <point x="2.089cm" y="2.829cm"/>
+      </atom>
+      <atom id="atom37657" name="C" valency="4">
+        <point x="2.089cm" y="3.528cm"/>
+      </atom>
+      <atom id="atom55709" name="C" valency="4">
+        <point x="0.876cm" y="3.528cm"/>
+      </atom>
+      <atom id="atom73347" name="C" valency="4">
+        <point x="1.482cm" y="3.878cm"/>
+      </atom>
+      <bond bond_width="6.0" center="no" double_ratio="0.75" end="atom55709" id="bond51300" line_width="1.0" start="atom99459" type="n2"/>
+      <bond double_ratio="0.75" end="atom81361" id="bond2757" line_width="1.0" start="atom99459" type="n1"/>
+      <bond bond_width="-6.0" center="no" double_ratio="0.75" end="atom73347" id="bond36139" line_width="1.0" start="atom37657" type="n2"/>
+      <bond double_ratio="0.75" end="atom37657" id="bond180" line_width="1.0" start="atom37712" type="n1"/>
+      <bond bond_width="-6.0" center="no" double_ratio="0.75" end="atom37712" id="bond76180" line_width="1.0" start="atom81361" type="n2"/>
+      <bond double_ratio="0.75" end="atom73347" id="bond68640" line_width="1.0" start="atom55709" type="n1"/>
+    </molecule>
+    <text id="text57883"><point x="4.283cm" y="2.406cm"/><ftext>AROMATIC</ftext></text>
+    <text id="text55240"><point x="1.110cm" y="6.874cm"/><ftext>R</ftext></text>
+    <molecule id="molecule94111" name="">
+      <atom id="atom14955" name="C" valency="4">
+        <point x="1.771cm" y="6.980cm"/>
+      </atom>
+      <atom id="atom85125" name="C" valency="4">
+        <point x="2.471cm" y="6.967cm"/>
+      </atom>
+      <bond double_ratio="0.75" end="atom85125" id="bond92759" line_width="1.0" start="atom14955" type="n1"/>
+    </molecule>
+    <text id="text18148"><point x="2.935cm" y="6.927cm"/><ftext>OH</ftext></text>
+    <text id="text80258"><point x="0.952cm" y="7.931cm"/><ftext>ALCOHOL</ftext></text>
+    <text id="text96726"><point x="0.925cm" y="10.258cm"/><ftext>R</ftext></text>
+    <molecule id="molecule91700" name="">
+      <atom id="atom85530" name="C" valency="4">
+        <point x="1.269cm" y="10.337cm"/>
+      </atom>
+      <atom id="atom20347" name="C" valency="4">
+        <point x="1.969cm" y="10.337cm"/>
+      </atom>
+      <bond double_ratio="0.75" end="atom20347" id="bond93563" line_width="1.0" start="atom85530" type="n1"/>
+    </molecule>
+    <text id="text7481"><point x="2.829cm" y="10.311cm"/><ftext>O</ftext></text>
+    <molecule id="molecule21706" name="">
+      <atom id="atom46937" name="C" valency="4">
+        <point x="3.358cm" y="10.337cm"/>
+      </atom>
+      <atom id="atom18839" name="C" valency="4">
+        <point x="4.058cm" y="10.337cm"/>
+      </atom>
+      <bond double_ratio="0.75" end="atom18839" id="bond99985" line_width="1.0" start="atom46937" type="n1"/>
+    </molecule>
+    <text id="text47753"><point x="4.627cm" y="10.231cm"/><ftext>R</ftext></text>
+    <molecule id="molecule61225" name="">
+      <atom id="atom54806" name="C" valency="4">
+        <point x="1.852cm" y="13.925cm"/>
+      </atom>
+      <atom id="atom24092" name="C" valency="4">
+        <point x="2.459cm" y="13.575cm"/>
+      </atom>
+      <atom id="atom13962" name="C" valency="4">
+        <point x="2.459cm" y="12.875cm"/>
+      </atom>
+      <atom id="atom66577" name="C" valency="4">
+        <point x="1.852cm" y="12.525cm"/>
+      </atom>
+      <atom id="atom75657" name="C" valency="4">
+        <point x="1.246cm" y="12.875cm"/>
+      </atom>
+      <atom id="atom61797" name="C" valency="4">
+        <point x="1.246cm" y="13.575cm"/>
+      </atom>
+      <bond double_ratio="0.75" end="atom24092" id="bond50028" line_width="1.0" start="atom54806" type="n1"/>
+      <bond double_ratio="0.75" end="atom61797" id="bond85576" line_width="1.0" start="atom75657" type="n1"/>
+      <bond double_ratio="0.75" end="atom66577" id="bond90128" line_width="1.0" start="atom13962" type="n1"/>
+      <bond double_ratio="0.75" end="atom54806" id="bond8798" line_width="1.0" start="atom61797" type="n1"/>
+      <bond double_ratio="0.75" end="atom13962" id="bond99850" line_width="1.0" start="atom24092" type="n1"/>
+      <bond double_ratio="0.75" end="atom75657" id="bond87026" line_width="1.0" start="atom66577" type="n1"/>
+    </molecule>
+    <text id="text26906"><point x="1.110cm" y="14.911cm"/><ftext>CYCLIC</ftext></text>
+    <text id="text11655"><point x="1.190cm" y="16.444cm"/><ftext>R</ftext></text>
+    <molecule id="molecule97634" name="">
+      <atom id="atom98675" name="C" valency="4">
+        <point x="1.877cm" y="16.391cm"/>
+      </atom>
+      <atom id="atom1795" name="C" valency="4">
+        <point x="2.577cm" y="16.391cm"/>
+      </atom>
+      <bond double_ratio="0.75" end="atom1795" id="bond76721" line_width="1.0" start="atom98675" type="n1"/>
+    </molecule>
+    <text id="text66408"><point x="5.314cm" y="11.897cm"/><ftext>SH</ftext></text>
+    <text id="text18495"><point x="2.961cm" y="16.338cm"/><ftext>SH</ftext></text>
+    <molecule id="molecule70313" name="">
+      <atom id="atom70556" name="C" valency="4">
+        <point x="1.481cm" y="18.850cm"/>
+      </atom>
+      <atom id="atom71118" name="C" valency="4">
+        <point x="2.047cm" y="19.262cm"/>
+      </atom>
+      <atom id="atom89008" name="C" valency="4">
+        <point x="1.831cm" y="19.928cm"/>
+      </atom>
+      <atom id="atom38872" name="C" valency="4">
+        <point x="1.130cm" y="19.928cm"/>
+      </atom>
+      <atom id="atom51093" name="C" valency="4">
+        <point x="0.914cm" y="19.262cm"/>
+      </atom>
+      <bond double_ratio="0.75" end="atom51093" id="bond38277" line_width="1.0" start="atom38872" type="n1"/>
+      <bond double_ratio="0.75" end="atom71118" id="bond51946" line_width="1.0" start="atom70556" type="n1"/>
+      <bond double_ratio="0.75" end="atom38872" id="bond11559" line_width="1.0" start="atom89008" type="n1"/>
+      <bond double_ratio="0.75" end="atom89008" id="bond43255" line_width="1.0" start="atom71118" type="n1"/>
+      <bond double_ratio="0.75" end="atom70556" id="bond9880" line_width="1.0" start="atom51093" type="n1"/>
+    </molecule>
+    <text id="text81889"><point x="0.793cm" y="20.886cm"/><ftext>PENTANE</ftext></text>
+  </cdml>
+</svg>
